@@ -1,0 +1,29 @@
+*{
+	background: #80e5ff;
+	margin: 0;
+	padding: 0;
+}
+
+.fondo{
+	padding: 0;
+}
+
+#sol{
+	width: 100px;
+	height: 100px;
+	background-color: #ff6600;
+	-moz-border-radius: 50px;
+	-webkit-border-radius:50px;
+	border-radius: 50px;
+	position: relative;
+	left:150px;
+	top: 64px; 
+}
+
+#pasto{
+	width: 100%;
+	height: 100px;
+	background-color: green;
+	position: relative;
+	top: 370px;
+}
