@@ -1,11 +1,12 @@
-*{
-	background: #80e5ff;
+.body{
 	margin: 0;
 	padding: 0;
 }
 
 .fondo{
 	padding: 0;
+	background: #80e5ff;
+
 }
 
 #sol{
@@ -27,3 +28,28 @@
 	position: relative;
 	top: 370px;
 }
+
+.casa{
+	padding: 0;
+}
+#base { 
+	background: red;
+    height: 162px;
+    position: relative;
+    left: 358px;
+    top: 145px;
+    position: relative;
+    width: 245px; 
+}
+
+    #techo {
+    border-bottom: 108px solid brown;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    left: 345px;
+    top: -124px;
+    position: relative;
+    height: 0;
+    width: 172px;
+}
+  
