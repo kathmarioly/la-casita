@@ -32,13 +32,69 @@
 .casa{
 	padding: 0;
 }
+#ventana{
+	background-color: pink;
+    width: 45px;
+    height: 37px;
+    left: 472px;
+    bottom: 200px;
+    position: relative;
+}
+
+#ventanachic1{
+	background-color: pink;
+	height: 57px;
+	left: : 0px;
+	top: 62px;
+	width: 45px;
+	position: relative;
+}
+#ventana1{
+	background-color: pink;
+    width: 45px;
+    height: 37px;
+    left: 59px;
+	bottom: 57px;
+    position: relative;
+}
+
+#ventanachic2{
+	background-color: pink;
+    height: 57px;
+	left: 59px;
+	top: 62px;
+	width: 45px;
+    position: absolute;
+}
+ #puerta{ 
+ 	background: whitesmoke;
+	height: 85px;
+	position: relative;
+	left: 382px;
+	bottom: 53px;
+	width: 45px;
+
+}
+#circulo{
+	width: 37px;
+	height: 37px;
+	background-color: #f0f0f8;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	position: absolute;
+	left: 3px;
+	bottom: 109px;
+
+}
+
+
 #base { 
 	background: red;
     height: 162px;
     position: relative;
     left: 358px;
     top: 145px;
-    position: relative;
     width: 245px; 
 }
 
@@ -52,4 +108,4 @@
     height: 0;
     width: 172px;
 }
-  
+ 
