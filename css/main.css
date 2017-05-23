@@ -1,12 +1,13 @@
+
 .body{
 	margin: 0;
 	padding: 0;
+		
+	
 }
 
 .fondo{
 	padding: 0;
-	background: #80e5ff;
-
 }
 
 #sol{
@@ -98,6 +99,16 @@
     width: 245px; 
 }
 
+
+#cañon{ 
+ 	background: black;
+	height: 68px;
+	position: relative;
+	left: 577px;
+	bottom: 358px;
+	width: 15px;
+
+}
     #techo {
     border-bottom: 108px solid brown;
     border-left: 50px solid transparent;
@@ -109,3 +120,31 @@
     width: 172px;
 }
  
+#humo1{
+	width: 14px;
+	height: 14px;
+	background-color: #a19595;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	position: absolute;
+	left: 605px;
+	bottom: 442px;
+	position: relative;
+
+}
+
+#humo2{
+	width: 20px;
+	height: 20px;
+	background-color: #c5bdbd;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	position: absolute;
+	left: -28px;
+	bottom: 36px;
+	position: relative;
+
+}
+
